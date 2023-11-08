@@ -1,5 +1,3 @@
-# TODO shape, %%time
-
 import nltk
 from sklearn.datasets import fetch_20newsgroups
 
